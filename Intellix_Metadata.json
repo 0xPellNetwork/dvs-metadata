@@ -1,0 +1,7 @@
+{
+  "name": "IntelliX",
+  "website": "https://intellix.network/",
+  "description": "IntelliX: AI-driven and Openly Programmable Oracle Network IntelliX introduces a new class of blockchain oracles designed to bridge the gap between complex, unstructured off-chain data and blockchain systems. These AI-driven oracles leverage advanced multimodal Large Language Models (LLMs) to process and interpret a wide range of unstructured data formats, including text, images and video footage. By transforming this diverse data into structured, actionable insights, IntelliX oracles enable smart contracts to operate with a level of sophistication and contextual awareness previously unattainable.",
+  "logo": "https://raw.githubusercontent.com/0xPellNetwork/dvs-metadata/main/intellix.jpeg",
+  "twitter": "https://x.com/IntelliX_Labs"
+}
